@@ -1,5 +1,5 @@
-###Brckets [CSS - Color Marker]
-###Description
+Brackets [CSS - Color Marker]
+-----
 
 A versatile color marker for CSS created to help designers/developers view assigned color values without leaving the text-editor or hover insist.  
 Shout out to [Alexnder Taratin](https://github.com/QW0101/Brackets-Color-Highlighter) for creating the awesome Brackets color highlighter.
