@@ -1,8 +1,8 @@
 {
     "name": "custom-color-highlighter",
     "title": "CSS - Color Marker",
-    "description": "Auto highlight and capitalize colors in CSS",
-    "homepage": "https://github.com/unsyllable",
+    "description": "A versatile color marker for CSS created to help designers/developers view assigned color values without leaving the text-editor or hover insist.",
+    "homepage": "https://github.com/unsyllable/CSS-Color-Marker",
     "version": "1.0.0",
     "author": "Ali Raza",
     "license": "Public",
