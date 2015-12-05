@@ -1,0 +1,12 @@
+{
+    "name": "custom-color-highlighter",
+    "title": "CSS - Color Marker",
+    "description": "Auto highlight and capitalize colors in CSS",
+    "homepage": "https://github.com/unsyllable",
+    "version": "1.0.0",
+    "author": "Ali Raza",
+    "license": "Public",
+    "engines": {
+        "brackets": ">=0.20.0"
+    }
+}
