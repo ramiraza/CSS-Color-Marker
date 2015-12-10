@@ -20,12 +20,7 @@ define(function (require) {
 
     function processElement(e, color, tcolor) {
         e.style.backgroundColor = tcolor;
-        e.style.borderRadius = '2px';
-        e.style.padding = '2px 4px';
-        e.style.fontFamily = 'Lucida Grande, Helvetica Neue, sans-serif';
-        e.style.fontSize = '9.5px';
-        e.style.textTransform = 'uppercase';
-        e.style.fontWeight = '700';
+        e.style.padding = '0 4px';
         e.style.display = 'inline-block';
         e.style.color = ((color.light() < 50) ? '#fff' : '#000');
     }
